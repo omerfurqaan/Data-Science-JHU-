@@ -1,1 +1,1 @@
-# Data-Science-JHU-
+Data Science Specialization by John Hopkins University
